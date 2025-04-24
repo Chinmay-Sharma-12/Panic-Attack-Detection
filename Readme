@@ -1,0 +1,24 @@
+# 🧠 Panic Attack Therapy Prediction
+
+This project uses machine learning to predict whether an individual experiencing panic attacks might require therapy. It takes into account medical, psychological, and lifestyle-related inputs through an interactive web interface built using Flask.
+
+---
+
+## 🚀 Features
+
+- Interactive web app for real-time prediction
+- User-friendly UI for input collection
+- Machine learning model trained on labeled data
+- Uses Random Forest Classifier for accurate results
+- Real-time inference using Flask backend
+
+---
+
+## 📊 Tech Stack
+
+- **Frontend:** HTML, CSS
+- **Backend:** Flask (Python)
+- **ML Tools:** Pandas, Scikit-learn, Label Encoding, Random Forest
+- **Deployment-ready:** Localhost support with potential for cloud hosting
+
+---
